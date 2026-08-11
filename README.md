@@ -5,6 +5,7 @@ text editor for macOS.
 
 ```sh
 brew tap sorenmat/skerry
+brew trust sorenmat/skerry
 brew install --cask skerry
 ```
 
