@@ -1,9 +1,9 @@
 cask "skerry" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "0.1.6"
-  sha256 arm:   "7bd9c54795e7ffd96a2a7a62750da6d118b8ef73830a55a5cb16a64ea315d330",
-         intel: "67e2d93588ca85161cc0fbd917f2296d0d2293ead7299c948d0d236d0da9eba1"
+  version "0.1.7"
+  sha256 arm:   "5f8e4763cccde905456e60282504bdca6c6205a115a218f8946a8a639a753984",
+         intel: "90fa0cdb3fda6d421c0bd701440db2c2e750618a2ae83f1034663e1bf05e070a"
 
   url "https://github.com/sorenmat/skerry/releases/download/v#{version}/Skerry-macos-#{arch}.tar.gz"
   name "Skerry"
