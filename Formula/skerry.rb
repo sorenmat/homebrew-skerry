@@ -1,9 +1,9 @@
 class Skerry < Formula
   desc "Dual-frontend text editor for mixed-size workloads"
   homepage "https://github.com/sorenmat/skerry"
-  url "https://github.com/sorenmat/skerry/releases/download/v0.1.7/Skerry-linux-x86_64.tar.gz"
-  version "0.1.7"
-  sha256 "cec1fc21cfb66300599a714d31cad8d1fc5996503bae9804ec0328ff372b7b84"
+  url "https://github.com/sorenmat/skerry/releases/download/v0.1.8/Skerry-linux-x86_64.tar.gz"
+  version "0.1.8"
+  sha256 "d311bd4e0f7f813731f84e97343502d680b4e60f8f51be4c9bf4914a520d048a"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on arch: :x86_64
